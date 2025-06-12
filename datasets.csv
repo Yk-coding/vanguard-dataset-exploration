@@ -8,5 +8,5 @@ DOTA,Drone / Overhead Imagery,~2 GB (training + validation images and annotation
 xView,Drone / Overhead Imagery,~20 GB (images + annotations totaling over 1M objects),CC BY‑NC‑SA 4.0,https://www.kaggle.com/datasets/hassanmojab/xview-dataset
 OpenEarthMap‑SAR,SAR / Aerial,~403 MB (dfc25_track1_test.zip); full dataset likely several GB,SAR data: CC BY 4.0,https://zenodo.org/records/14948851
 SpaceNet6,SAR / Aerial,~56 GB (450mx450m tiles with associated buildings footprint labels of AOI 11 Rotterdam),CC BY-SA 4.0,https://spacenet.ai/sn6-challenge/
-Noisy Drone RF,RF Waveform,~25 GB(6 drone types + 4 controller types + noise class (~8872 noise samples total)),CC BY 4.0,https://www.kaggle.com/datasets/sgluege/noisy-drone-rf-signal-classification
+Noisy Drone RF Signal Classification,RF Waveform,~25 GB(6 drone types + 4 controller types + noise class (~8872 noise samples total)),CC BY 4.0,https://www.kaggle.com/datasets/sgluege/noisy-drone-rf-signal-classification
 Oxford Radar RobotCar,Automotive Radar, ~47 TB(radar scans across 280 km of urban driving),CC BY-NC-SA 4.0,https://robotcar-dataset.robots.ox.ac.uk/
