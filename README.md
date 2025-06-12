@@ -20,8 +20,11 @@ The `datasets/xview/` folder includes:
 
 ## RadarScenes (Radar Point Cloud Data Set)
 **Link**: [RadarScenes - Dataset](https://radar-scenes.com/dataset/about)
+
 **Liscense**: CC BY-NC-SA 4.0	
+
 **Modality**: Automotive Radar
+
 **Size**: ~4 hours driving data 7500+ unique objects
 
 ### Description
