@@ -1,1 +1,12 @@
-
+Name,Modality,Size,License,Link
+RadarScenes,Automotive Radar,"~4 hours driving data, 7500+ unique objects",CC BY-NC-SA 4.0,https://radar-scenes.com/
+LS-SSDD-v1.0,SAR / Aerial,"~15 scenes, ~9,000 tiles",Apache‑2.0,https://github.com/TianwenZhang0825/LS-SSDD-v1.0-OPEN
+RadioML 2016.10A,RF Waveform,"11 modulations, ~641 MB",CC BY‑NC‑SA 4.0,https://www.kaggle.com/datasets/nolasthitnotomorrow/radioml2016-deepsigcom
+RADIATE,Automotive Radar,"3 hours of annotated radar data (~44,140 frames, 200K+ objects)",CC BY‑NC‑SA 4.0,https://github.com/marcelsheeny/radiate_sdk
+OpenSARShip,SAR / Aerial,"11,346 (v1.0) → 34,528 ship-chips from Sentinel‑1",Not Specified (Public Access),https://opensar.sjtu.edu.cn/DataAndCodes.html
+DOTA,Drone / Overhead Imagery,~2 GB (training + validation images and annotations for thousands of instances),CC0: Public Domain,https://www.kaggle.com/datasets/chandlertimm/dota-data
+xView,Drone / Overhead Imagery,~20 GB (images + annotations totaling over 1M objects),CC BY‑NC‑SA 4.0,https://www.kaggle.com/datasets/hassanmojab/xview-dataset
+OpenEarthMap‑SAR,SAR / Aerial,~403 MB (dfc25_track1_test.zip); full dataset likely several GB,SAR data: CC BY 4.0,https://zenodo.org/records/14948851
+SpaceNet6,SAR / Aerial,~56 GB (450mx450m tiles with associated buildings footprint labels of AOI 11 Rotterdam),CC BY-SA 4.0,https://spacenet.ai/sn6-challenge/
+Noisy Drone RF Signal Classification,RF Waveform,~25 GB(6 drone types + 4 controller types + noise class (~8,872 noise samples total)),CC BY 4.0,https://www.kaggle.com/datasets/sgluege/noisy-drone-rf-signal-classification
+Oxford Radar RobotCar,Automotive Radar,240,000 ~47 TB(radar scans across 280 km of urban driving),CC BY-NC-SA 4.0,https://robotcar-dataset.robots.ox.ac.uk/
