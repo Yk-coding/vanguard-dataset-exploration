@@ -38,6 +38,7 @@ The xxx folder includes:
   - radar and odometry data of  timestamp(xxx), x_seq(xxx), y_seq(xxx), yaw_seq(xxx), vx(xxx), yaw_rate(xxx)  
 - xxx — in which meta-information are stored
   - Specific json files include
+    
     -sensors — describes the position and orientation of the four radar sensors.
     -sequences — 1 entry/sequence of category, scenes, and duration.
     -scenes — meta-information for a specific sequence and the scenes.
