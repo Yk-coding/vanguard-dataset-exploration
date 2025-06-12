@@ -9,7 +9,7 @@ Repository to explore defense datasets
 
 ### Description
 xView is one of the largest publicly available overhead imagery datasets for object detection.  
-It contains over 1 million labeled objects** across 60 classes.
+It contains over 1 million labeled objects across 60 classes.
 The dataset supports computer vision applications in defense, intelligence, and surveillance.
 
 ### File Structure (in this repo)
