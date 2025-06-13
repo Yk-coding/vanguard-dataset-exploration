@@ -48,8 +48,8 @@ The xxx folder includes:
 **Size**: ~25 GB (6 drone types + 4 controller types + noise class)  
 
 ### Description
-The Noisy Drone RF Signal Classification dataset contains data from six consumer grade drones and noise.   
-The dataset contains 7 different object classes, 6 being for the drones and 1 being noise (around 8872 noise samples in total).  
+The Noisy Drone RF Signal Classification dataset contains data from six consumer grade drones and noise. 
+The dataset contains 7 different object classes, 6 being for the drones and 1 being noise (around 8872 noise samples in total). 
 More detailed information about this dataset and its initial use to support a convolutional neural network that detected and classified drones using radio frequency signals can be found here: https://www.scitepress.org/Papers/2023/121768/121768.pdf.   
 
 ### File Structure
