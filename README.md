@@ -19,11 +19,11 @@ The `datasets/xview/` folder includes:
   - Includes polygon coordinates and properties such as `type_id`, `feature_id`, and `image_id`
 
 ## RadarScenes (Radar Point Cloud Data Set)
-**Link**: [RadarScenes - Official Site](https://radar-scenes.com/dataset/about) | [Kaggle Mirror](https://www.kaggle.com/datasets/aleksandrdubrovin/the-radarscenes-data-set)
 
-**License**: CC BY-NC-SA 4.0	
-**Modality**: Automotive Radar
-**Size**: ~4 hours driving data 7500+ unique objects
+**Link**: [Official Site](https://radar-scenes.com/dataset/about) | [Kaggle Mirror](https://www.kaggle.com/datasets/aleksandrdubrovin/the-radarscenes-data-set)  
+**License**: CC BY-NC-SA 4.0  
+**Modality**: Automotive Radar  
+**Size**: ~4 hours driving data, 7500+ unique objects
 
 ### Description
 The RadarScenes data set contains data from four automotive radar sensors mounted on one measurement vehicle. 
