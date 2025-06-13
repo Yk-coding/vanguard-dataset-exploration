@@ -8,11 +8,11 @@ Repository to explore defense datasets
 **Size**: ~20 GB (images + annotations)
 
 ### Description
-xView is one of the largest publicly available overhead imagery datasets for object detection.  
-It contains over 1 million labeled objects across 60 classes.
+xView is one of the largest publicly available overhead imagery datasets for object detection. 
+It contains over 1 million labeled objects across 60 classes. 
 The dataset supports computer vision applications in defense, intelligence, and surveillance.
 
-### File Structure (in this repo)
+### File Structure
 The `datasets/xview/` folder includes:
 - `xview-sample.tif` — A representative satellite image tile
 - `xview-sample-annotation.json` — A GeoJSON-style file with sample object annotations
